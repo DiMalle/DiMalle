@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning: AI and large language models (LLMs)
 - 💬 Ask me about: New trends in the tech industry
 - 📫 How to reach me: 
-Email: [Boubacarmalle86@gmail.com]
-Discord: (DiMalle#0288)
+Email: Boubacarmalle86@gmail.com
+Discord: DiMalle#0288
 
 ###
 
