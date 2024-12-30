@@ -92,7 +92,7 @@ Discord: (DiMalle#0288)
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DiMalle/DiMalle/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/DiMalle/DiMalle/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
