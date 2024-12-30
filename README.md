@@ -7,7 +7,7 @@
 - 💬 Ask me about: New trends in the tech industry
 - 📫 How to reach me: 
 Email: [Boubacarmalle86@gmail.com]
-Discord: [DiMalle#0288]
+Discord: (DiMalle#0288)
 
 ###
 
@@ -95,3 +95,9 @@ Discord: [DiMalle#0288]
 <img src="https://raw.githubusercontent.com/DiMalle/DiMalle/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
