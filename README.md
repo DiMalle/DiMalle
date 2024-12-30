@@ -87,11 +87,6 @@
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5yMXFnMm1nOW13c2l6ZWVpZTZ3c3pzYW44eGtxOGV4ZXUyaGxqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif"  />
 </div>
-
-###
-
-<br clear="both">
-
 <!-- <img src="https://raw.githubusercontent.com/DiMalle/DiMalle/output/snake.svg" alt="Snake animation" /> -->
 
 ###
