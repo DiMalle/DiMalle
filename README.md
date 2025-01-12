@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey there ! I’m Malle — Your friendly neighborhood software engineer, crafting code to make the web a better place.</h2>
+<h2 align="center">👋 Hey ! I’m Malle — Your friendly neighborhood software engineer, crafting code to make the web a better place.</h2>
 
 ###
 
