@@ -2,7 +2,7 @@
 
 ###
 
-- 🔭 I’m currently working on: Building an order tracking app
+- 🔭 I’m currently working on: Building an audit management web app & invoicing app
 - 🌱 I’m currently learning: AI and large language models (LLMs)
 - 💬 Ask me about: New trends in the tech industry
 - 📩 Email: Boubacarmalle86@gmail.com
