@@ -11,7 +11,6 @@ $ whoami
 $ cat about.txt
 > Building things that make the web a little better, one commit at a time.
 > Currently shipping: an audit management web app + an invoicing app.
-> Once went deep on AI/LLMs, got pulled away by client work — still on the backlog.
 
 $ contact --list
 > email    : Boubacarmalle86@gmail.com
