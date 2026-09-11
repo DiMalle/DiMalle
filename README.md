@@ -10,7 +10,7 @@ $ whoami
 
 $ cat about.txt
 > Building things that make the web a little better, one commit at a time.
-> Currently shipping: an audit management web app + an invoicing app.
+> Currently shipping: an audit management web app + an invoicing app and a luggage tracking system.
 
 $ contact --list
 > email    : Boubacarmalle86@gmail.com
