@@ -1,6 +1,6 @@
 <div align="center">
 
-# ```DiMalle@devs:~$```
+# ```DiMalle@dev:~$```
 
 </div>
 
